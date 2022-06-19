@@ -100,8 +100,6 @@ python .\debug.py --dataset real_colibri --fold 0
 
 - The images will show as below:
 
-![](fig/img.PNG) 
-
 ![](fig/img-GT.PNG)
 
 ## Training
