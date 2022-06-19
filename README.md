@@ -8,6 +8,7 @@ We present HMD-EgoPose: a deep learning-based framework making hand and rigid ob
 This work contains code adapted from the following repositories:
 - [EfficientPose by ybkscht:](https://github.com/ybkscht/EfficientPose) Tensorflow/Keras implementation with scripts for model structure, data augmentation, and evaluation
 - [Yet-Another-EfficientDet-Pytorch by zylo117:](https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch) PyTorch network implementation for the EfficientNet and EfficientDet backbones
+- [node-dss by bengreenier:](https://github.com/bengreenier/node-dss) Simple signalling server for WebRTC
 
 ## Table of contents
 - [Project setup](#project-setup)
