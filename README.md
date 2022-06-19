@@ -100,7 +100,7 @@ python .\debug.py --dataset real_colibri --fold 0
 
 - The images will show as below:
 
-![](fig/img-GT.PNG)
+<img src="fig/img.PNG" height="350" />
 
 ## Training
 Includes the resources for data formatting, loading, training, and export of a custom machine learning framework for rigid surgical drill pose estimation
