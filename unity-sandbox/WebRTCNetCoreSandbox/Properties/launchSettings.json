@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WebRTCNetCoreSandbox": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
