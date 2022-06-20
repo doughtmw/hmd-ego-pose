@@ -17,6 +17,7 @@ This work contains code adapted from the following repositories:
 - [Training](#training)
 - [Evaluation](#evaluation)
 - [Run Sample with the HoloLens 2 and a Workstation](#run-sample-with-the-hololens-2-and-a-workstation)
+- [Citation](#citation)
 
 ## Project setup
 Folder setup for the project sample.
@@ -348,3 +349,18 @@ translation_pred: [[-0.02811211 -0.05858146  0.48664188]]
 # Debug
 # Release
 .\build.bat --config Release --build_shared_lib --parallel --cmake_generator "Visual Studio 16 2019" --build_nuget --use_dml --build_dir directml --skip_tests
+```
+
+## Citation
+If you found this code repo useful, please consider citing the associated publication:
+```
+@article{doughty2022hmd,
+  title = {{HMD}-{EgoPose}: head-mounted display-based egocentric marker-less tool and hand pose estimation for augmented surgical guidance},
+  issn = {1861-6429},
+  url = {https://doi.org/10.1007/s11548-022-02688-y},
+  doi = {10.1007/s11548-022-02688-y},
+  journaltitle = {International Journal of Computer Assisted Radiology and Surgery},
+  author = {Doughty, Mitchell and Ghugre, Nilesh R.},
+  date = {2022-06-14},
+}
+```
